@@ -1,6 +1,7 @@
 {
     "name": "bolenge/maxicash",
     "description": "The MaxiCash integration platform enables merchants to integrate with the MaxiCash platform to receive payments via their mobile applications or websites. The API uses JSON to interact with .Net or open source platforms such as PHP.",
+    "version": "1.0.0",
     "keywords": [
         "maxicash",
         "mobile money",
