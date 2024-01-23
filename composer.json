@@ -1,5 +1,5 @@
 {
-    "name": "devscast/maxicash",
+    "name": "bolenge/maxicash",
     "description": "The MaxiCash integration platform enables merchants to integrate with the MaxiCash platform to receive payments via their mobile applications or websites. The API uses JSON to interact with .Net or open source platforms such as PHP.",
     "keywords": [
         "maxicash",
@@ -21,8 +21,8 @@
     },
     "authors": [
         {
-            "name": "bernard-ng",
-            "email": "ngandubernard@gmail.com"
+            "name": "Don de Dieu Bolenge",
+            "email": "dondedieubolenge@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -32,13 +32,13 @@
         "phpunit/phpunit": "^10.4"
     },
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "webmozart/assert": "^1.11"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/devscast/maxicash"
+            "url": "https://github.com/bolenge/maxicash"
         }
     ]
 }

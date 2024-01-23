@@ -16,7 +16,7 @@ final class CredentialTest extends TestCase
 {
     public function testConstructor(): void
     {
-        $credential = new Credential('merchant_id', 'merchant_key');
+        $credential = new Credential('4bc27182c02e4d159f1179d10b3537af', 'eaea1d899d24f9ea47b175ce8d1a4ae');
 
         $this->assertEquals('merchant_id', $credential->merchantId);
         $this->assertEquals('merchant_key', $credential->merchantKey);
